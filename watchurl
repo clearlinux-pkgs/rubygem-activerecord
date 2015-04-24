@@ -1,0 +1,5 @@
+# rubygem-rails requires version (4.2.3) 
+# check: https://rubygems.org/gems/rails/versions/4.2.3
+# rubygem-stringex requires version (= 4.0.3) //old package
+# check: https://rubygems.org/gems/stringex/2.5.2
+watchurl=https://rubygems.org/gems/activerecord/versions/(4.2.3)
