@@ -4,7 +4,7 @@
 #
 Name     : rubygem-activerecord
 Version  : 5.0.0
-Release  : 11
+Release  : 12
 URL      : https://rubygems.org/downloads/activerecord-5.0.0.gem
 Source0  : https://rubygems.org/downloads/activerecord-5.0.0.gem
 Summary  : No detailed summary available
