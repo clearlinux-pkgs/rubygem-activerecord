@@ -1,5 +1,4 @@
-# rubygem-rails requires version (4.2.3) 
-# check: https://rubygems.org/gems/rails/versions/4.2.3
-# rubygem-stringex requires version (= 4.0.3) //old package
-# check: https://rubygems.org/gems/stringex/2.5.2
-watchurl=https://rubygems.org/gems/activerecord/versions/(4.2.3)
+# File auto-generated with 'Watchfile generator'
+# 2016-07-14 22:13:53.922719
+# {'>=3.2.15', 'development', '=5.0.0', '=4.0.3'}
+watchurl=https://rubygems.org/gems/activerecord/versions/(4\.0\.3)
